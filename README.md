@@ -9,7 +9,7 @@ cowboy hero is an adventurous game of a cowboy named Hero trying to find his pre
 - will write laterr...
 
 # author
-- @LeenAlHarash
+- <a href="https://github.com/LeenAlHarash">leen<a>
 - me
 
 # licenses
