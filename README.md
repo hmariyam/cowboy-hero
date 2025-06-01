@@ -6,7 +6,7 @@ cowboy hero is an adventurous game of a cowboy named Hero trying to find his pre
 - unity 2021 (software)
 
 # installation instructions (2 options)
-- will write laterr...
+- the website linked with this project leads you to the game where you can download it
 
 # author
 - <a href="https://github.com/LeenAlHarash">leen<a>
