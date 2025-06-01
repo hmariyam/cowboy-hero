@@ -1,0 +1,64 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Fence
+  - Key
+  - ClosedChestBox
+  - OpenChestBox
+  - Gun
+  - Bullets
+  - cowboyEnemie
+  - MainPlayer
+  - Scorpions
+  - Quicksand
+  - Tornade
+  - Collection
+  - Balle
+  - Ground
+  - Joueur
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - Ground
+  - Water
+  - UI
+  - Player
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: background
+    uniqueID: 3580178791
+    locked: 0
+  - name: montagnes
+    uniqueID: 2660252035
+    locked: 0
+  - name: Default
+    uniqueID: 0
+    locked: 0
